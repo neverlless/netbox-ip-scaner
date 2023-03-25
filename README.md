@@ -1,6 +1,6 @@
 # NetBox IP Scaner
 
-This script allows you to scan a specified IP prefix for the required pool of IP addresses, some of which may be designated as DHCP pools. During the scanning process, the script checks the availability of each IP address and creates a record in NetBox depending on the status of the address.
+This script allows you to scan the specified IP prefix for available IP addresses, some of which may be labeled as DHCP pools. During the scan, the script checks the availability of each IP address and creates an entry in NetBox depending on the status of the address.
 
 ## Prerequisites
 
